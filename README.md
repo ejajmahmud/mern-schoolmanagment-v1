@@ -1,55 +1,19 @@
+# mern-schoolmanagment-v1
 
-# College Management System
+Hey there! This is a complete project repository featuring JavaScript.
 
-The College Management System is a MERN Stack-based system with three different login portals for students, faculty, and admin.
+## Why this repository exists
+I source and maintain clean, reference codebases across various technologies (including web apps, mobile apps, workflow integrations, and system utilities). This repository is kept public to serve as a reference or clean starting point for fellow developers.
 
-## Tech Stack
+## Tech Stack & Highlights
+- **Primary Tech Stack**: JavaScript
+- Zero bloat, clean directories, and fully structured.
 
-**Client:** React, Redux, TailwindCSS
+## How to run or use
+1. Clone this repository to your local workspace.
+2. Install the necessary dependencies for this stack (e.g., check configuration files like `package.json`, `requirements.txt`, etc.).
+3. Run the project according to standard procedures for this environment.
 
-**Server:** Node, Express
-
-**Database:** MongoDB
-
-
-## Student Features
-
-- Internal Marks: Access to view internal marks for courses
-- External Marks: Access to view external marks for courses
-- Course Materials: Ability to download course materials
-- Notices: Access to view notices
-- Timetables: Access to view their own timetables
-- Password Update: Ability for students to update their passwords
-
-## Faculty Features
-
-- Student Details: Ability for faculty to view student details
-- Password Update: Ability for faculty to update their own passwords
-- Notices: Ability for faculty to add notices
-- Materials Upload: Ability for faculty to upload course materials
-- Timetable Management: Ability for faculty to manage timetables
-- Exam Mark Recording: Ability for faculty to record internal and external exam marks
-
-## Admin Features
-
-- Account Creation: Ability for admins to add new students, faculty, and admin accounts
-- Account Details Modification: Ability for admins to modify the details of each account
-- Subject Management: Ability for admins to add/edit subjects
-- Notices Management: Ability for admins to add/edit notices
-## Environment Variables
-
-To run this project, you will need to add the following environment variables to your .env file
-
-Frontend Side:
-
-`REACT_APP_API`
-`REACT_APP_AUTHDOMAIN`
-`REACT_APP_PROJECTID`
-`REACT_APP_STORAGE_BUCKET`
-`REACT_APP_SENDERID`
-`REACT_APP_APPID`
-
-Backend Side: 
-
-`MONGODB_URI`
-
+---
+Feel free to fork, explore, or reach out if you have any questions!
+Created and maintained by [Md Ejaj Mahmud](https://github.com/ejajmahmud).
